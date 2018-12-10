@@ -1,0 +1,4 @@
+rest:
+  username: someuserftp
+  password: somepassftp
+  url: localhostftp
